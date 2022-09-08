@@ -1,1 +1,7 @@
 hello airflow
+
+如何 启动本工程 
+在 本目下建立 airflow.py 
+’‘’
+python3 airflow.py info
+‘’‘
